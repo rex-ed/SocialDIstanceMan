@@ -1,0 +1,11 @@
+{
+    "Lua.diagnostics.globals": [
+        "class_commons",
+        "love",
+        "UI",
+        "controls",
+        "keyMenu",
+        "save",
+        "highScore"
+    ]
+}
